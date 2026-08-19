@@ -48,7 +48,7 @@
       "about.p2":
         "I approach these questions with interdisciplinary tools from political science and economics, aiming for research that is theoretically grounded and useful for understanding real-world policy.",
       "about.p3":
-        'Beyond research, I love furry animals — especially British and American Shorthairs and red pandas. I love music; here is a collection of what I enjoy: <a href="https://jerrycg.github.io/music-player/" target="_blank" rel="noopener noreferrer">果子狸のMusic Player</a>. My favorite singers are Celine Dion, Jessie J, and Sohyang — they are my beacons. I also love watching sports, and here is my visualization project <a href="https://tennis-vis.onrender.com/" target="_blank" rel="noopener noreferrer">TennisVis</a> to honor the GOAT, Novak Djokovic.',
+        'Beyond research, I love furry animals — especially British and American Shorthairs and red pandas. I love music; here is a collection of what I enjoy: <a href="https://jerrycg.github.io/music-player/" target="_blank" rel="noopener noreferrer">果子狸のMusic Player</a>. My favorite singers are Celine Dion, Jessie J, and Sohyang — they are my beacons. I enjoy art; here is a <a href="https://jerrycg.github.io/contemporary-art-hub/" target="_blank" rel="noopener noreferrer">Contemporary Art Hub</a> I made. I also love watching sports, and here is my visualization project <a href="https://tennis-vis.onrender.com/" target="_blank" rel="noopener noreferrer">TennisVis</a> to honor the GOAT, Novak Djokovic.',
       "edu.title": "Education",
       "edu.ucsd.school": "UC San Diego",
       "edu.ucsd.years": "Incoming",
@@ -150,7 +150,7 @@
       "about.p2":
         "我结合政治科学与经济学的跨学科方法研究这些问题，致力于产出具有理论根基、并有助于理解现实政策的研究。",
       "about.p3":
-        '研究之外，我喜欢毛茸茸的小动物——尤其是英短、美短和小熊猫。我热爱音乐；这里是我喜欢的作品合集：<a href="https://jerrycg.github.io/music-player/" target="_blank" rel="noopener noreferrer">果子狸のMusic Player</a>。我最喜欢的歌手是席琳·迪翁（Celine Dion）、结石姐（Jessie J）和少香（Sohyang）——她们是我的灯塔。我也热爱体育，这里是我的可视化项目 <a href="https://tennis-vis.onrender.com/" target="_blank" rel="noopener noreferrer">TennisVis</a>，致敬 GOAT 诺瓦克·德约科维奇。',
+        '研究之外，我喜欢毛茸茸的小动物——尤其是英短、美短和小熊猫。我热爱音乐；这里是我喜欢的作品合集：<a href="https://jerrycg.github.io/music-player/" target="_blank" rel="noopener noreferrer">果子狸のMusic Player</a>。我最喜欢的歌手是席琳·迪翁（Celine Dion）、结石姐（Jessie J）和少香（Sohyang）——她们是我的灯塔。我也热爱艺术；这里是我做的 <a href="https://jerrycg.github.io/contemporary-art-hub/" target="_blank" rel="noopener noreferrer">Contemporary Art Hub</a>。我也热爱体育，这里是我的可视化项目 <a href="https://tennis-vis.onrender.com/" target="_blank" rel="noopener noreferrer">TennisVis</a>，致敬 GOAT 诺瓦克·德约科维奇。',
       "edu.title": "教育经历",
       "edu.ucsd.school": "加州大学圣地亚哥分校",
       "edu.ucsd.years": "即将入学",
